@@ -1,2 +1,2 @@
-#webdesign-dicoding
+#dicoding
 Demo : https://susepsupriatna.github.io/dicoding/
