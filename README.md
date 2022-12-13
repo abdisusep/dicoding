@@ -1,4 +1,4 @@
 #dicoding
 
 
-Demo : https://susepsupriatna.github.io/dicoding/
+Demo : https://susepdev.github.io/dicoding/
