@@ -1,4 +1,4 @@
 #dicoding
 
 
-Demo : https://susepdev.github.io/dicoding/
+Demo : https://abdisusep.github.io/dicoding/
